@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently on college<br>👯 I’m looking to collaborate on Flutter<br>🌱 I’m currently learning java, py, html, css
+🔭 I’m currently on college<br>👯 I’m looking to collaborate on Flutter<br>🌱 I’m currently learning bloc
 
 
 ## 🌐 Socials:
